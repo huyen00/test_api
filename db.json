@@ -1,0 +1,22 @@
+{
+  "premission": [
+    {
+      "id": 1,
+      "name": "users-manager"
+    },
+    {
+      "id": 2,
+      "name": "create-project"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
